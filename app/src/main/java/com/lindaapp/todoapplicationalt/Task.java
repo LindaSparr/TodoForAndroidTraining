@@ -1,4 +1,4 @@
-package se.hellsoft.pia6todoapplication;
+package com.lindaapp.todoapplicationalt;
 
 import android.os.Parcel;
 import android.os.Parcelable;
